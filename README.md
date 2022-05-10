@@ -7,4 +7,6 @@ About assistive vision technology:-
 
 The computer vision based assistive technology for the blind and visually impaired is a developing area. The assistive technology helps the visually impaired by providing them with a greater independence. By enabling them with their day-to-day activities like indoor and outdoor navigation, obstacle detection, locating the doors and lost objects, etc. Even though different assistive technologies are available for the blind, most of them have complex designs which are developed for a specific purpose and are expensive for the commercial production.
 
+## Open https://github.com/shivamprakashsp/Assistive_Vision_Image_Caption_Generator/blob/main/Assistive%20Vision.ipynb For a detailed walkthrough and code .(Live caption generation at the end)
+
 
